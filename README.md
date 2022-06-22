@@ -14,8 +14,8 @@ console.log(hello)
 ```
 [Meu instagram](https://instagram.com/tukadalive)
 
-:ship investigue com nosso amigo minhas notas
+investigue com nosso amigo minhas notas 👽
 
-😃
+😄
 
-[^1] Aprendendo tudo no DEV SOUTINHO, ONE BIT CODE, ROCKET SEAT... e por ai vai...
+[^1]Aprendendo tudo no DEV SOUTINHO, ONE BIT CODE, ROCKET SEAT... e por ai vai...
